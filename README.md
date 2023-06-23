@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	<title>IT SKILLS PROJECT</title>
+	<h1>IT SKILLS PROJECT</h1>
   </head>
 <body>
 <h1>HOMEPAGE</h1>
