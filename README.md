@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
   <head>
 	<h1>IT SKILLS PROJECT</h1>
