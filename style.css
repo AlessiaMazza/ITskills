@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    background-color: LightCyan;
+}
+h1{
+    margin: 0;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+div.title-div{
+    background-color: MediumTurquoise;
+    padding: 20px 0 20px 0;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    color: white;
+}
+div.navigation{
+    background-color: mediumaquamarine;
+    padding: 10px 0 10px 10px;
+}
+div.content{
+    padding-left: 10px;
+}
+h2{
+    padding-left: 10px;
+}
