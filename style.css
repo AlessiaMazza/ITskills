@@ -16,7 +16,7 @@ a {
     color: black;
 }
 a:hover {
-    color: white;
+    color: LightGrey;
 }
 div.navigation{
     background-color: mediumaquamarine;
