@@ -1,6 +1,12 @@
 body{
     margin: 0;
-    background-color: LightBlue;
+    background-image: url("background.png"); 
+    background-color: #cccccc; 
+    height: 500px; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    background-size: cover; 
+}
 }
 h1{
     margin: 0;
@@ -16,7 +22,7 @@ a {
     color: black;
 }
 a:hover {
-    color: Teal;
+    color: DarkBlue ;
 }
 div.navigation{
     background-color: mediumaquamarine;
