@@ -1,12 +1,13 @@
 body{
     margin: 0;
+}
+.hero-image {
     background-image: url("background.png"); 
     background-color: #cccccc; 
     height: 500px; 
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover; 
-}
 }
 h1{
     margin: 0;
