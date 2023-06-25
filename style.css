@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    background-color: LightCyan;
+    background-image: url("background.png");
+    background-color: #cccccc;
 }
 h1{
     margin: 0;
