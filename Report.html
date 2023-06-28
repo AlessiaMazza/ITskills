@@ -21,9 +21,9 @@
 	    <p>
 	     	For the realization of this project, it has been necessary to exploit several tools. <br>
 		First of all, to build the queries necessary to explore the knowledge bases and to retrieve the data, we used: <br>
-		- The Polifonia Corpus which has been consulted using the MusicBO module; <br>
-		- Fred which has proved to be useful to build queries from the MusicBo knowledge base; <br>
-		- Wikidata repository of knowledge and the Wikidata Query Service that runs the query against the Wikidata dataset to display the results. <br>
+		- The <b>Polifonia Corpus</b> which has been consulted using the MusicBO module; <br>
+		- <b>Fred</b> which has proved to be useful to build queries from the MusicBo knowledge base; <br>
+		- <b>Wikidata</b> repository of knowledge and the Wikidata Query Service that runs the query against the Wikidata dataset to display the results. <br>
 		In a second moment, we used Melody (Make mE a Linked Open Data storY) to create our three web-ready interactive data stories. <br>
 		In conclusion, once the stories were completed, we used GitHub to create a shared repository including the articles which describe the project, focusing on both the stories and the methodology adopted. <br> 
 	    </p>
@@ -39,12 +39,12 @@
 		The queries were built with the aim to retrieve the data present in the two knowledge databases. They were either built starting from a piece of information that we already knew by consulting the Wikidata page of our subjects, or on the base of hypothetical scenarios, querying the repository to retrieve more complex information. <br>
 		All queries were designed in accordance with the kind of information we wanted to represent, choosing the operators and the semantics accordingly. <br> 
 		More precisely we used: <br>
-		- The aggregate functions of COUNT and GROUP BY to build queries whose aim was to retrieve the total number of elements grouped together and not a simple list of all the results; <br>
-		- The modifier DISTINCT to eliminate the duplicate results; <br>
-		- In some cases, it has been necessary to use QUALIFIERS when we wanted to retrieve more details that couldn’t be summarized in a single triple. Indeed, qualifiers allow statements to be expanded beyond what can be expressed in a simple property value pair. They are used in order to provide additional information and better define the value of a property given in a statement; <br> 
-		- The LIMIT clause was necessary to better sort the list of results, often used together with the operator ORDER BY;  <br>
-		- The clause FILTER (condition) was inserted into some queries in order to obtain more specific results; <br>
-		- The operator OPTIONAL was used to not limit the list of potential results, including also those which match only some of the properties present in the query. <br>
+		- The aggregate functions of <b>COUNT</b> and <b>GROUP BY</b> to build queries whose aim was to retrieve the total number of elements grouped together and not a simple list of all the results; <br>
+		- The modifier <b>DISTINCT</b> to eliminate the duplicate results; <br>
+		- In some cases, it has been necessary to use <b>QUALIFIERS</b> when we wanted to retrieve more details that couldn’t be summarized in a single triple. Indeed, qualifiers allow statements to be expanded beyond what can be expressed in a simple property value pair. They are used in order to provide additional information and better define the value of a property given in a statement; <br> 
+		- The <b>LIMIT</b> clause was necessary to better sort the list of results, often used together with the operator ORDER BY;  <br>
+		- The clause <b>FILTER</b> (condition) was inserted into some queries in order to obtain more specific results; <br>
+		- The operator <b>OPTIONAL</b> was used to not limit the list of potential results, including also those which match only some of the properties present in the query. <br>
 		At this point, we designed an article-like data story, combining textual information with statistical components, such as counters, charts, tables, text search and maps to create a sequential narrative.  <br> 
 		In conclusion, after saving and publishing our stories on Melody, the last step was the creation of a public and shared repository on GitHub, composed of a main page, the three articles and this report. We then created an additional file called “style.css” with the aim of defying the style of each website page in an external file. <br> 
 	    </p>
