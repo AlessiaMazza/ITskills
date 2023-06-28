@@ -1,6 +1,8 @@
 body{
     margin: 0;
     background-color: AliceBlue; 
+    text-align: justify;
+    text-justify: inter-word;
 }
 h1{
     margin: 0;
@@ -38,6 +40,14 @@ h4{
 h5{
   text-align: center;    
 }
+p{
+  margin-right:20px;
+  margin-left:20px;
+}
 table{
     background-color: LightGreen;
+}
+img{
+  margin-right:20px;
+  margin-left:20px;
 }
