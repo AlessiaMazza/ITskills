@@ -13,7 +13,7 @@ a {
     color: black;
 }
 a:hover {
-    color: MediumTurquoise ;
+    color: MediumTurquoise;
 }
 div.navigation{
     background-color: mediumaquamarine;
@@ -46,4 +46,28 @@ table{
 img{
   margin-right:20px;
   text-align:center;
+}
+div.one > img {
+  margin: 0;
+}
+div.one{
+  display: inline-block;
+  width: 100%;
+  text-align: center;
+}
+div.two > img {
+  margin: 0;
+}
+div.two{
+  display: inline-block;
+  width: 49.8%;
+  text-align: center;
+}
+div.three > img {
+  margin: 0;
+}
+div.three{
+  display: inline-block;
+  width: 33%;
+  text-align: center;
 }
