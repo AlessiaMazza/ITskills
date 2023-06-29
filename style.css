@@ -47,6 +47,9 @@ img{
   margin-right:20px;
   text-align:center;
 }
+div.big-one{
+    text-align:center;
+}
 div.one > img {
   margin: 0;
 }
