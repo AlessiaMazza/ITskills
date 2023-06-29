@@ -20,7 +20,8 @@ div.navigation{
     padding: 10px 0 10px 10px;
 }
 div.content{
-    padding-left: 10px;
+    width: 70%;
+    margin-left: 15%;
 }
 h1{
     text-align:center;
