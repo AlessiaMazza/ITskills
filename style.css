@@ -4,11 +4,6 @@ body{
     text-align: justify;
     text-justify: inter-word;
 }
-h1{
-    margin: 0;
-    padding-left: 10px;
-    vertical-align: middle;
-}
 div.title{
     background-color: MediumTurquoise;
     padding: 20px 0 20px 0;
@@ -27,8 +22,10 @@ div.navigation{
 div.content{
     padding-left: 10px;
 }
+h1{
+    text-align:center;
+}
 h2{
-    padding-left: 10px;
     text-align: center;
 }
 h3{
@@ -41,8 +38,8 @@ h5{
   text-align: center;    
 }
 p{
-  margin-right:20px;
-  margin-left:20px;
+  margin-right:50px;
+  margin-left:50px;
 }
 table{
   background-color: LightGreen;
