@@ -13,7 +13,7 @@ a {
     color: black;
 }
 a:hover {
-    color: DarkBlue ;
+    color: MediumTurquoise ;
 }
 div.navigation{
     background-color: mediumaquamarine;
@@ -41,7 +41,7 @@ h5{
 table{
   text-align: center;
   width: 100%;
-  background-color: LightGreen;
+  background-color: MediumTurquoise;
 }
 img{
   margin-right:20px;
