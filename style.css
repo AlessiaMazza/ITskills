@@ -19,6 +19,7 @@ a:hover {
 div.navigation{
     background-color: mediumaquamarine;
     padding: 10px 0 10px 10px;
+    text-align:center;
 }
 div.content{
     width: 70%;
