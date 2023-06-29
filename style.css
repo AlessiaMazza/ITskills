@@ -3,7 +3,7 @@ body{
     background-color: AliceBlue; 
     text-align: justify;
     text-justify: inter-word;
-    font-family: "Georgia", serif;
+    font-family: "Georgia", Times, serif;
 }
 div.title{
     background-color: MediumTurquoise;
