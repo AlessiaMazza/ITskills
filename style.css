@@ -38,15 +38,12 @@ h4{
 h5{
   text-align: center;    
 }
-p{
-  margin-right:50px;
-  margin-left:50px;
-}
 table{
+  width: 100%;
   background-color: LightGreen;
   margin-right:20px;
   margin-left:20px;
 }
 img{
-  margin-left:20px;
+  margin-right:20px;
 }
