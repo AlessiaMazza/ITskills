@@ -39,10 +39,9 @@ h5{
   text-align: center;    
 }
 table{
+  text-align: center;
   width: 100%;
   background-color: LightGreen;
-  margin-right:20px;
-  margin-left:20px;
 }
 img{
   margin-right:20px;
