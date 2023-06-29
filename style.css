@@ -60,7 +60,7 @@ div.two > img {
 }
 div.two{
   display: inline-block;
-  width: 49.8%;
+  width: 49.5%;
   text-align: center;
 }
 div.three > img {
@@ -68,7 +68,7 @@ div.three > img {
 }
 div.three{
   display: inline-block;
-  width: 33%;
+  width: 32.5%;
   text-align: center;
 }
 p{
