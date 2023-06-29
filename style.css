@@ -3,6 +3,7 @@ body{
     background-color: AliceBlue; 
     text-align: justify;
     text-justify: inter-word;
+    font-family: "Monaco", monospace;
 }
 div.title{
     background-color: MediumTurquoise;
